@@ -23,6 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luljn&show_icons=true&locale=en&layout=compact" alt="luljn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luljn&show_icons=true&locale=en" alt="luljn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luljn&" alt="luljn" /></p>
-
