@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luljn" alt="luljn" /></a> </p>
 
-- 🔭 I’m currently working on [Awesome-components](https://github.com/luljn/Awesome-components)
+- 🔭 I’m currently working on [AI-Game-Windows](https://github.com/luljn/AI-Game-Windows) and [Carrefour](https://github.com/luljn/Carrefour)
 
-- 🌱 I’m currently learning **Angular** and **Symfony**
+- 🌱 I’m currently learning **Prolog**
 
 - 📫 How to reach me **mbohlulajonathan4@gmail.com**
 
