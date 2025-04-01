@@ -79,8 +79,6 @@
     <a href="https://www.microsoft.com/fr-fr/windows" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=windows" width="30" height="30" alt="windows"/></a>
 </p>
 
-<p>
-    <img align="left" src="https://githuhttps://www.microsoft.com/fr-fr/windowsb-readme-stats.vercel.app/api/top-langs?username=luljn&show_icons=true&locale=en&layout=compact" alt="luljn" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luljn&show_icons=true&locale=en&layout=compact" alt="luljn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luljn&show_icons=true&locale=en" alt="luljn" /></p>
